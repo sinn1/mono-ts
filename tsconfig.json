@@ -4,8 +4,8 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@nighttrax/components/*": ["packages/components/src/*"],
-      "@nighttrax/*": ["packages/*/src"]
+      "@tandf/components/*": ["packages/components/src/*"],
+      "@tandf/*": ["packages/*/src"]
     },
     "noEmit": true
   }

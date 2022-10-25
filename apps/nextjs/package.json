@@ -1,5 +1,5 @@
 {
-  "name": "@nighttrax/nextjs-example",
+  "name": "@tandf/nextjs-example",
   "private": true,
   "version": "1.0.0",
   "scripts": {
@@ -11,7 +11,7 @@
     "next": "~12.3.0",
     "react": "~18.2.0",
     "react-dom": "~18.2.0",
-    "@nighttrax/components": "*"
+    "@tandf/components": "*"
   },
   "devDependencies": {
     "@types/node": "~18.11.0",
